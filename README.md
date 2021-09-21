@@ -1,7 +1,7 @@
-# Hello there 👋, I'm Haim
-``` 
-I'm from Mexico 
-
-Currently TI Engineering Student 👨‍💻 
-I'm interested in Cibersecurity and Front End Technologies ⚡
-```
+# Hello there 👀, I'm Haim
+##### Welcome to my repository 
+##### I'm currently TI Engineer Student 👨‍💻 from Mexico
+### Interested in...
+- Cibersecurity ⚔
+- Networking ⚡
+- Coding 💻
