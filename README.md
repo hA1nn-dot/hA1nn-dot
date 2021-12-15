@@ -2,7 +2,7 @@
 <p>Currently IT Engineering student :books: at UPSLP 	:student:</p>
 
 <h2>Currently learning...</h2>
-<p>JavaScipt :man_technologist:</p>
+<p>JavaScript :man_technologist:</p>
   
 <h2 align="left"> I'm interested in...</h2>
 <ul>
