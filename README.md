@@ -1,4 +1,4 @@
-<img align='left' src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/pixel-art.gif' width='20%'/> 
+<img align='left' src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> 
 
 <h1 align="left"> <i>Hi there!, I'm Haim 🦊</i></h1>
 
