@@ -4,7 +4,7 @@
 
 I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318F7EA&lines=It's+time+to+create+the+future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318F7EA&lines=Always+is+a+good+day+to+program)](https://git.io/typing-svg)
 
 <h2 align="left"><i>About me</i> 🐱‍👤</h2>
 
@@ -23,14 +23,6 @@ const Haim = {
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haim-guel-quiroz-a000a4220/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hA1nn_TW)
-
-<p align="center">
-  <img src="https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/mage.gif" width='20%'>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%231488FF&lines=Control+your+mind+and+get+the+world">
-</p>
   
 
 
