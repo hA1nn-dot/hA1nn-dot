@@ -11,8 +11,8 @@ I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓
 ```javascript
 const Haim = {
   code: ['C#', 'C++', 'SQL', 'HTML', 'CSS', 'JS'], 
-  tools: ['Unity', 'Azure', 'Docker'],
-  events: ['Marathon IBM', 'Nasa Space Apps', 'Azure Capital'],
+  tools: ['Unity', 'Azure', 'Node', 'Express', 'Jest'],
+  events: ['Marathon IBM', 'Nasa Space Apps', 'Azure Capital', 'LaunchX'],
   challenge: 'Complete Launch X programs by Innovacción Virtual members'
 }
 ```
