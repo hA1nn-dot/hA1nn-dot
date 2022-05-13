@@ -3,7 +3,7 @@
 <h1 align="left"> <i>Hi there!, I'm Haim 🦊</i></h1>
 
 I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓
-
+## Check my tech blog [here](https://ha1nn-dot.github.io/my_launchx_blog/) 💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318F7EA&lines=Always+is+a+good+day+to+program)](https://git.io/typing-svg)
 
 <h2 align="left"><i>About me</i> 🐱‍👤</h2>
