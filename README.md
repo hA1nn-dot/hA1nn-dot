@@ -1,7 +1,8 @@
-<a href="www.google.com"><img align='left' src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='100%'/> </a>
-<h1 align="left"> <i>Hi there!, I'm Haim 🦊</i></h1>
+<h1 align="center"> <i>Hi there!, I'm Haim 🦊</i></h1>
+<p align="center"><img src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='100%'/> </p>
 
-I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓
+
+I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓 passionate with technology and gaming 🎮 
 ## Check my tech blog [here](https://ha1nn-dot.github.io/my_launchx_blog/) 💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318F7EA&lines=Always+is+a+good+day+to+program)](https://git.io/typing-svg)
 
@@ -22,6 +23,7 @@ const Haim = {
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haim-guel-quiroz-a000a4220/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hA1nn_TW)
+  
   
 
 
