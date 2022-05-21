@@ -1,5 +1,4 @@
-<img align='left' src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> 
-
+<a href="www.google.com"><img align='left' src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='100%'/> </a>
 <h1 align="left"> <i>Hi there!, I'm Haim 🦊</i></h1>
 
 I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓
