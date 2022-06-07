@@ -1,5 +1,5 @@
 <h1 align="center"> <i>Hi there!, I'm Haim 🦊</i></h1>
-<p align="center"><img src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='100%'/> </p>
+<p align="center"><img src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> </p>
 
 
 I'm 23 years old, currently living in Mexico gratuated from IT Engineering 🎓 passionate with technology and gaming 🎮 
