@@ -1,5 +1,5 @@
 
-<h1><img float=left src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> <i>Hi there!, I'm Haim</i></h1>
+<h1><img float=left src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='10%'/> <i>Hi there!, I'm Haim</i></h1>
 I gratuated from IT Engineering 🎓, I'm passionate with technology and gaming 🎮
 
 ### Tools
