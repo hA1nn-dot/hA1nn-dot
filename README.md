@@ -1,8 +1,12 @@
 
-<h1><img float=left src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='10%'/> <i>Hi there!, I'm Haim</i></h1>
-I gratuated from IT Engineering 🎓, I'm passionate with technology and gaming 🎮
+<h1><img float=left src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> <i>Hi there 😺!, I'm Haim. Welcome to my profile</i></h1>
 
-<h2 align="left"><i>About me</i> 🐱‍👤</h2>
+- A curious and self-learned person 🌱
+- Passionate about IT industry 👨‍💻
+- Interest in supporting other people 🤝
+- Create IT solutions for any issue 🧰
+- Looking forward to new challenges ⚔️
+</br></br>
 
 ```javascript
 const Haim = {
