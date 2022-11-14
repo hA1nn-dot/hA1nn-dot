@@ -33,7 +33,7 @@ const Haim = {
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-### Actually learning
+### Currently learning
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hA1nn-dot&theme=highcontrast&show_icons=true&count_private=true" alt="ha1nn-dot" /></p>
