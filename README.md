@@ -8,6 +8,7 @@
 - Looking forward to new challenges ⚔️
 </br></br>
 
+
 ```javascript
 const Haim = {
   hobbies: ['Biking 🚲', 'Play videogames 🎮', 'Listen to music 🎵', 'Language learner ✨'],
@@ -43,7 +44,7 @@ const Haim = {
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=100&size=14&duration=3000&pause=1000&color=A4A4A4&background=36306C00&center=true&vCenter=true&multiline=true&width=435&lines=It+is+during+our+darkest+moments+that+we+must+focus+to+see+the+light.;-+Aristotle" alt="Typing SVG" /></a>
 </p>
 
-## Contact me
+## Contact me 📫
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haim-guel-quiroz/)
 
 
