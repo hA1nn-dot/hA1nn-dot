@@ -1,5 +1,7 @@
 
-<h1><img float=left src='https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif' width='20%'/> <i>Hi there 😺!, I'm Haim. Welcome to my profile</i></h1>
+<h1><i>Hi there 😺!, I'm Haim. Welcome to my profile</i></h1>
+
+<img align="right" width="150" src="https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif">
 
 - A curious and self-learned person 🌱
 - Passionate about IT industry 👨‍💻
