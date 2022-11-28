@@ -3,6 +3,7 @@
 
 <img align="right" width="150" src="https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif">
 
+### About me 👻
 - A curious and self-learned person 🌱
 - Passionate about IT industry 👨‍💻
 - Interest in supporting other people 🤝
