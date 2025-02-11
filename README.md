@@ -1,7 +1,6 @@
 
-<h1><i>Hi there 😺!, I'm Haim. Welcome to my profile</i></h1>
+<h1><i>Hi there!, I'm Haim. Welcome to my profile</i></h1>
 
-<img align="right" width="150" src="https://github.com/hA1nn-dot/hA1nn-dot/blob/main/gifs/LonelyPlainCaiman-max-1mb.gif">
 
 ### About me 👻
 - A curious and self-learned person 🌱
@@ -15,12 +14,10 @@
 ```javascript
 const Haim = {
   hobbies: ['Biking 🚲', 'Play videogames 🎮', 'Listen to music 🎵', 'Language learner ✨'],
-  food: ['Asian food 🍜🍣', 'Nachos lover 🧀', 'Pasta 🍝', 'Hamburguers 🍔', 'Pizza 🍕'],
+  food: ['Asian food 🍜🍣', 'Nachos 🧀', 'Pasta 🍝', 'Hamburguers 🍔', 'Pizza 🍕'],
   lang: {
     Spanish: 'Native',
-    English: 'B1',
-    German: 'A1',
-    Dutch: 'Currently learning'
+    English: 'B2',
   }
 }
 ```
@@ -38,8 +35,6 @@ const Haim = {
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-### Currently learning
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hA1nn-dot&theme=highcontrast&show_icons=true&count_private=true" alt="ha1nn-dot" /></p>
 
