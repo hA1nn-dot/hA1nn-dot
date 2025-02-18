@@ -13,6 +13,7 @@
 
 ```javascript
 const Haim = {
+  tools: ['ADO.NET', 'PHP', 'SQL', 'js']
   hobbies: ['Play videogames 🎮', 'Listen to music 🎵', 'Language learner ✨'],
   food: ['Asian food 🍜🍣', 'Nachos 🧀', 'Pasta 🍝', 'Hamburguers 🍔', 'Pizza 🍕'],
   lang: {
